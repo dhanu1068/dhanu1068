@@ -54,32 +54,24 @@
 - Payment integration (Razorpay/Stripe)
 - MySQL Database with JPA & Hibernate
 
-🔗 **GitHub Repo:** [E-Commerce Backend](https://github.com/mohamedjameerN/ecommerce-app)
+
 
 ### 🍔 **Food Order Delivery System**
 - User authentication, restaurant listings, order tracking
 - MySQL database integration
 - Spring Boot backend with Servlets and JSP
 
-🔗 **GitHub Repo:** [Food Order App](https://github.com/mohamedjameerN/food-order-app)
+🔗 **GitHub Repo:** [Food Order App](https://github.com/dhanu1068/eatsphere-app)
 
 ---
 
-## 📚 **LeetCode & Competitive Programming**
-![LeetCode Stats](https://leetcard.jacoblin.cool/mohamedjameer2003?theme=dark)
-
----
-
-## 🏆 LeetCode Daily Streak
-
-![LeetCode Streak](https://leetcard.jacoblin.cool/mohamedjameer2003?theme=dark&ext=heatmap)
 
 ---
 
 
 ## 📫 **Connect with Me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedjameern/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohamed-Jameer)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhanu1068)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanu1068@gmail.com)
 
 ---
@@ -93,7 +85,5 @@
 ---
 
 
-## 🏆 **GitHub Trophies**
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mohamed-Jameer&theme=dark)
----
+
 
