@@ -86,4 +86,11 @@
 
 
 
+## 🏆 **GitHub Trophies**
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dhanu1068&theme=dark)
+---
+
+
+
+
 
