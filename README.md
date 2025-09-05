@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🔥 About Me
-- 🔭 I’m currently working on **E-commerce Project (Spring Boot + JWT + OAuth)**
+- 🔭 I’m currently working on **Hotel-Management System(Spring Boot + Spring Security + React)**
 - 🌱 I’m currently learning **Microservices, System Design**
 - 👯 I’m looking to collaborate on **Java Backend & Spring Boot projects**
 - 💬 Ask me about **Java, Spring Boot, REST APIs, Hibernate, SQL**
@@ -41,14 +41,14 @@
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Jameer&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Jameer&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dhanu1068&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanu1068&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
 ## 🚀 **Top Projects**
-### 🔥 **E-Commerce Backend (Spring Boot + JWT + OAuth)**
+### 🔥 **Hotel-Management System(Spring Boot+Spring Security +ReactJs**
 - Secure authentication with JWT & OAuth
 - REST APIs for User, Product, Order Management
 - Payment integration (Razorpay/Stripe)
@@ -70,7 +70,7 @@
 
 
 ## 📫 **Connect with Me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedjameern/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanunjaya-c-9689aa253/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhanu1068)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanu1068@gmail.com)
 
