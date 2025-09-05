@@ -48,7 +48,7 @@
 ---
 
 ## 🚀 **Top Projects**
-### 🔥 **Hotel-Management System(Spring Boot+Spring Security +ReactJs**
+### 🔥 **Hotel-Management System(Spring Boot+Spring Security +ReactJs)**
 - Secure authentication with JWT & OAuth
 - REST APIs for User, Product, Order Management
 - Payment integration (Razorpay/Stripe)
