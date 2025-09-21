@@ -48,11 +48,12 @@
 ---
 
 ## 🚀 **Top Projects**
-### 🔥 **Hotel-Management System(Spring Boot+Spring Security +ReactJs)**
+### 🔥 **HavenHub: Hotel-Management System(Spring Boot+Spring Security +ReactJs)**
 - Secure authentication with JWT & OAuth
 - REST APIs for User, Product, Order Management
 - Payment integration (Razorpay/Stripe)
 - MySQL Database with JPA & Hibernate
+- 🔗 **GitHub Repo:** [HavenHub](https://github.com/dhanu1068/eatsphere-app)
 
 
 
