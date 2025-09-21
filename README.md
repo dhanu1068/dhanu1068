@@ -53,7 +53,7 @@
 - REST APIs for User, Product, Order Management
 - Payment integration (Razorpay/Stripe)
 - MySQL Database with JPA & Hibernate
-- 🔗 **GitHub Repo:** [HavenHub](https://github.com/dhanu1068/eatsphere-app)
+- 🔗 **GitHub Repo:** [HavenHub](https://github.com/dhanu1068/HavenHub-Hotel-Booking-Management)
 
 
 
