@@ -52,6 +52,8 @@
  - OTP-based email verification for secure registration.
  - Java 8 Streams + Spring Data JPA for efficient data handling.
  - React.js frontend for a responsive, seamless booking experience.
+
+   
  🔗 **GitHub Repo:** [HavenHub](https://github.com/dhanu1068/HavenHub-Hotel-Booking-Management)
 
 
