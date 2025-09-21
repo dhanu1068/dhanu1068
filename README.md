@@ -49,10 +49,9 @@
 
 ## 🚀 **Top Projects**
 ### 🔥 **HavenHub: Hotel-Management System(Spring Boot+Spring Security +ReactJs)**
-- Secure authentication with JWT & OAuth
-- REST APIs for User, Product, Order Management
-- Payment integration (Razorpay/Stripe)
-- MySQL Database with JPA & Hibernate
+🔹 OTP-based email verification for secure registration.
+🔹 Java 8 Streams + Spring Data JPA for efficient data handling.
+🔹 React.js frontend for a responsive, seamless booking experience.
 - 🔗 **GitHub Repo:** [HavenHub](https://github.com/dhanu1068/HavenHub-Hotel-Booking-Management)
 
 
