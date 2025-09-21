@@ -49,14 +49,14 @@
 
 ## 🚀 **Top Projects**
 ### 🔥 **HavenHub: Hotel-Management System(Spring Boot+Spring Security +ReactJs)**
-🔹 OTP-based email verification for secure registration.
-🔹 Java 8 Streams + Spring Data JPA for efficient data handling.
-🔹 React.js frontend for a responsive, seamless booking experience.
-- 🔗 **GitHub Repo:** [HavenHub](https://github.com/dhanu1068/HavenHub-Hotel-Booking-Management)
+ - OTP-based email verification for secure registration.
+ - Java 8 Streams + Spring Data JPA for efficient data handling.
+ - React.js frontend for a responsive, seamless booking experience.
+ 🔗 **GitHub Repo:** [HavenHub](https://github.com/dhanu1068/HavenHub-Hotel-Booking-Management)
 
 
 
-### 🍔 **Food Order Delivery System**
+### 🍔 **Eatsphere: Food Order Delivery System**
 - User authentication, restaurant listings, order tracking
 - MySQL database integration
 - Spring Boot backend with Servlets and JSP
