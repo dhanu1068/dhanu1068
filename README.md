@@ -56,7 +56,7 @@
    
  🔗 **GitHub Repo(Backend):** [HavenHub](https://github.com/dhanu1068/HavenHub-Hotel-Booking-Management)
  
- 🔗 **GitHub Repo(Frontend):** [HavenHub](https://github.com/dhanu1068/HavenHub-Hotel-Booking-Frontend))
+ 🔗 **GitHub Repo(Frontend):** [HavenHub](https://github.com/dhanu1068/HavenHub-Hotel-Booking-Frontend)
 
 
 
