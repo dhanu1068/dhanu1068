@@ -54,8 +54,8 @@
  - React.js frontend for a responsive, seamless booking experience.
 
    
- 🔗 **GitHub Repo:** [HavenHub](https://github.com/dhanu1068/HavenHub-Hotel-Booking-Management)
- 🔗 **GitHub Repo:** [HavenHub](https://github.com/dhanu1068/HavenHub-Hotel-Booking-Frontend))
+ 🔗 **GitHub Repo(Backend):** [HavenHub](https://github.com/dhanu1068/HavenHub-Hotel-Booking-Management)
+ 🔗 **GitHub Repo(Frontend:** [HavenHub](https://github.com/dhanu1068/HavenHub-Hotel-Booking-Frontend))
 
 
 
