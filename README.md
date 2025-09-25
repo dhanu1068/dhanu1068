@@ -52,6 +52,7 @@
  - OTP-based email verification for secure registration.
  - Java 8 Streams + Spring Data JPA for efficient data handling.
  - React.js frontend for a responsive, seamless booking experience.
+ - 🚀 **Live Demo:** [https://havenhub-app.vercel.app/](https://havenhub-app.vercel.app/)  
 
    
  🔗 **GitHub Repo(Backend):** [HavenHub](https://github.com/dhanu1068/HavenHub-Hotel-Booking-Management)
